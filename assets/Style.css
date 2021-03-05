@@ -1,0 +1,446 @@
+.body {
+  background-image: linear-gradient(
+    0deg,
+    rgba(224.000001847744, 234.00000125169754, 252.00000017881393, 1) 0%,
+    rgba(207.00000286102295, 222.00000196695328, 243.00000071525574, 1) 100%
+  );
+  width: 1229px;
+  height: 2470px;
+  /*bueno la pomgoaca tu despues la acomoda*/
+  font-family:'Roboto', sans-serif;
+}
+.e11_1{
+  background-image: linear-gradient(
+    0deg,
+    rgba(224.000001847744, 234.00000125169754, 252.00000017881393, 1) 0%,
+    rgba(207.00000286102295, 222.00000196695328, 243.00000071525574, 1) 100%
+  );
+  width: 1229px;
+  height: 2460px;
+}
+#e42_3 {
+  width: 571px;
+  height: 63px;
+  position: absolute;
+}
+#logo {
+  top: 10%;
+  position: absolute;
+  left: 15.49%;
+}
+.e15_77 {
+ position: absolute;
+  left: 6.49%;
+  right: 0%;
+  top: 10%;
+  bottom: 11.11%;
+
+ /* font-family: Roboto;*/
+  font-style: normal;
+  font-weight: bold;
+  font-size: 64px;
+  line-height: 75px;
+
+  color: #00203e;
+}
+#e16_54 {
+  width: 69px;
+  height: 63px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+#e16_55 {
+  width: 69px;
+  height: 63px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+#e16_56 {
+  background-color: rgba(
+    3.4531179070472717,
+    73.4824937582016,
+    138.1250050663948,
+    1
+  );
+  width: 51.75px;
+  height: 47.25px;
+  position: absolute;
+  left: 8.625px;
+  top: 7.875px;
+}
+#e42_4 {
+  width: 217px;
+  height: 56px;
+  position: absolute;
+}
+#e16_6 {
+  color: rgba(0, 32.044999077916145, 61.62499822676182, 1);
+  width: 131px;
+  height: 56px;
+  position: absolute;
+  left: 95%;
+  top: 10%;
+  font-family: Roboto;
+  text-align: left;
+  font-size: 46px;
+  letter-spacing: 0;
+}
+#e16_7 {
+  color: rgba(0, 32.044999077916145, 61.62499822676182, 1);
+  width: 131px;
+  height: 56px;
+  position: absolute;
+  left: 75%;
+  top: 10%;
+  font-family: Roboto;
+  text-align: left;
+  font-size: 46px;
+  letter-spacing: 0;
+}
+.e16_57 {
+  color: rgba(0, 32.044999077916145, 61.62499822676182, 1);
+  width: 935px;
+  height: 63px;
+  font-family: Roboto;
+  text-align: left;
+  font-size: 48px;
+  position: absolute;
+  top: 200px;
+  left: 100px;
+}
+.e16_58 {
+  color: rgba(1.3414040207862854, 56.44637010991573, 107.31249645352364, 1);
+  width: 935px;
+  height: 63px;
+  font-family: Roboto;
+  text-align: left;
+  font-size: 36px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 350px;
+  left: 100px;
+}
+.icono_1 {
+  position: absolute;
+  top: 30%;
+  left: 65%;
+}
+/*estilos de las letras de quienes somos*/
+.icono_2 {
+  position: absolute;
+  top: 620px;
+  left: 100px;
+}
+.e21_58 { 
+  color:rgba(0, 32.044999077916145, 61.62499822676182, 1);
+  width:603px;
+  height:56px;
+  font-family:Roboto;
+  text-align:left;
+  font-size:48px;
+  letter-spacing:0;
+  position: absolute;
+  top: 550px;
+  left: 560px;
+
+}
+.p{ 
+  color:rgba(1.3414040207862854, 56.44637010991573, 107.31249645352364, 1);
+  width:744px;
+  height:343px;
+  font-family:Roboto;
+  text-align:left;
+  font-size:26px;
+  letter-spacing:0;
+ position: absolute;
+ left: 43.00%;
+ right: 17.13%;
+ top: 90.52%;
+ bottom: 2.52%;
+}
+/*seccion de m cards*/
+#e29_2 { 
+  background-color:rgba(255, 255, 255, 1);
+  width:434px;
+  height:682px;
+  border-top-left-radius:20px;
+  border-top-right-radius:20px;
+  border-bottom-left-radius:20px;
+  border-bottom-right-radius:20px;
+  position: absolute;
+  left: 3%;
+  right: 11.97%;
+  top: 156.72%;
+  bottom: 7.21%;
+}
+/*ubicacion del icono*/
+.icono_3 {
+  position: absolute;
+  top: 25px;
+  left: 20px;
+}
+/*Headin de la m card*/
+#ei167_3_31_60 { 
+  color:rgba(0, 32.044999077916145, 61.62499822676182, 1);
+  width:404px;
+  height:21px;
+  font-family:Roboto;
+  text-align:center;
+  font-size:24px;
+  letter-spacing:0;
+  position: absolute;
+  top: 328px;
+  left: 15px;
+  align-content: center;
+}
+/*texto informativo*/
+#ei167_3_31_62 { 
+  color:rgba(3.4531179070472717, 73.4824937582016, 138.1250050663948, 1);
+  width:408px;
+  height:225px;
+  font-family:Roboto;
+  text-align:center;
+  font-size:24px;
+  letter-spacing:0;
+  position: absolute;
+  left: 3.04%;
+  right: 14.2%;
+  top: 58.65%;
+  bottom: 10.74%;
+}
+
+.ei167_4_31_63 { 
+  background-color:rgba(255, 255, 255, 1);
+  width:430px;
+  height:682px;
+  border-top-left-radius:20px;
+  border-top-right-radius:20px;
+  border-bottom-left-radius:20px;
+  border-bottom-right-radius:20px;
+  position: absolute;
+  top: 1112px;
+  left:485px;
+}
+
+#ei167_4_32_0 { 
+  color:rgba(0, 32.044999077916145, 61.62499822676182, 1);
+  width:404px;
+  height:21px;
+  font-family:Roboto;
+  text-align:center;
+  font-size:24px;
+  letter-spacing:0;
+  position: absolute;
+  top: 328px;
+  left: 15px;
+}
+
+#ei167_4_34_0 { 
+  color:rgba(3.4531179070472717, 73.4824937582016, 138.1250050663948, 1);
+  width:408px;
+  height:225px;
+  font-family:Roboto;
+  text-align:center;
+  font-size:24px;
+  letter-spacing:0;
+  position: absolute;
+  left: 3.04%;
+  right: 14.2%;
+  top: 58.65%;
+  bottom: 10.74%;
+}
+/*Headin de la tercera card*/
+#ei167_5_41_2 { 
+  width:430px;
+  height:662px;
+  position:absolute;
+}
+#ei167_5_41_2_34_1 { 
+  background-color:rgba(255, 255, 255, 1);
+  width:430px;
+  height:682px;
+  position:absolute;
+  left:940px;
+  top:1012px;
+  border-top-left-radius:20px;
+  border-top-right-radius:20px;
+  border-bottom-left-radius:20px;
+  border-bottom-right-radius:20px;
+}
+/*icono 4 par card 3*/
+.icono_4 {
+  position: absolute;
+  top: 25px;
+  left: 20px;
+}
+/*estilos para  heding car*/
+#ei167_5_36_41 { 
+  color:rgba(0, 32.044999077916145, 61.62499822676182, 1);
+  width:368.9915466308594px;
+  height:56px;
+  font-family:Roboto;
+  text-align:center;
+  font-size:24px;
+  letter-spacing:0;
+  position: absolute;
+  top: 328px;
+  left: 15px;
+}
+/*Estilos de parrafo*/
+#ei167_5_37_0 { 
+  color:rgba(3.4531179070472717, 73.4824937582016, 138.1250050663948, 1);
+  width:353.4261474609375px;
+  height:243.18365478515625px;
+  font-family:Roboto;
+  text-align:left;
+  font-size:24px;
+  letter-spacing:0;
+  position: absolute;
+  left: 17.04%;
+  right: 14.2%;
+  top: 58.65%;
+  bottom: 10.74%;
+}
+/*estilos del footer*/
+#e142_6 { 
+  color:rgba(148.000006377697, 240.00000089406967, 255, 1);
+  width:328px;
+  height:68px;
+  font-family:Roboto;
+  text-align:left;
+  font-size:36px;
+  letter-spacing:0;
+  position: absolute;
+  left: 4.87%;
+  right: 77.19%;
+  top: 4.05%;
+  bottom: 65.32%;
+}
+
+.e47_0 { 
+  background-color:rgba(0, 32.044999077916145, 61.62499822676182, 1);
+  width:1445.7186279296875px;
+  height:630px;
+  position: absolute;
+left: 0%;
+right: 0%;
+top: 300%;
+bottom: 0%;
+}
+#fb-icon{
+  position: absolute;
+left: 4.89%;
+right: 91.96%;
+top: 28.83%;
+bottom: 44.14%;
+}
+#wp-icon{
+width: 67,52px;
+height:70px;
+position: absolute;
+left: 10.4%;
+right: 86.91%;
+top: 27.83%;
+bottom: 42.34%;
+}
+#telegram-icon{
+  position: absolute;
+  left: 16.67%;
+  right: 81.8%;
+  top: 28.83%;
+  bottom: 44.14%;  
+}
+#email-icon{
+  position: absolute;
+  left: 22.67%;
+  right: 81.8%;
+  top: 28.83%;
+  bottom: 44.14%; 
+}
+#chex-box{
+  position: absolute;
+  left: 48.07%;
+  right: 20.91%;
+  top: 4.05%;
+  bottom: 67.57%;
+  border-radius: 20px;
+}
+#ei57_3_15_77 { 
+  color:rgba(207.1875, 246.0150933265686, 255, 1);
+  width:490.5116882324219px;
+  height:56px;
+  font-family:Roboto;
+  text-align:left;
+  font-size:48px;
+  letter-spacing:0;
+  position: absolute;
+  left: 55.07%;  
+  right: 0%;
+  top: 4.05%;
+  bottom: 11.11%;
+}
+#e55_4 { 
+  color:rgba(148.000006377697, 240.00000089406967, 255, 1);
+  width:191.63714599609375px;
+  height:126px;
+  font-family:Roboto;
+  text-align:left;
+  font-size:18px;
+  letter-spacing:0;
+  position: absolute;
+  left: 52.74%;
+  right: 36.77%;
+  top: 28.83%;
+  bottom: 10.36%;
+}
+#e48_0 { 
+  color:rgba(207.1875, 246.0150933265686, 255, 1);
+  width:626px;
+  height:26px;
+  font-family:Roboto;
+  text-align:left;
+  font-size:18px;
+  letter-spacing:0;
+  position: absolute;
+  left: 20.49%;
+  right: 47.26%;
+  top: 80.18%;
+  bottom: 8.11%;
+}
+/*estilos del modal*/
+#ei71_1267_75_406 { 
+  color:rgba(0, 32.044999077916145, 61.62499822676182, 1);
+  width:1311px;
+  height:132px;
+  font-family:Roboto;
+  text-align:left;
+  font-size:72px;
+  letter-spacing:0;
+  position: absolute;
+  width: 1311px;
+  height: 132px;
+  left: 379px;
+  top: 43px;
+}
+##EpicModal2{
+  background: linear-gradient(90deg, #C9D6FF 0%, #E2E2E2 100%);
+border-radius: 50px;
+}
+#ei71_1267_75_406 { 
+  color:rgba(0, 32.044999077916145, 61.62499822676182, 1);
+  width:1311px;
+  height:132px;
+  font-family:Roboto;
+  text-align:left;
+  font-size:72px;
+  letter-spacing:0;
+}
+
+@media(max-width:400px){
+}

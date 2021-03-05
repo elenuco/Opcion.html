@@ -1,0 +1,43 @@
+
+.table-2{text-align: center;
+    border-collapse: collapse;
+    border-spacing: 2px;
+}
+.bg-doc{
+	background-image: url(../../bootstrap/img/bg-banner.jpg);
+}
+.bg-usuario{
+	background-image: url(../../bootstrap/img/1.jpg);
+}
+.bg-actualiza-usuario{
+	background-image: url(../../bootstrap/img/doctor2.jpg);
+}
+/*esto es para los bordes de las tablas*/
+.radius-2 {
+border-radius: 40em; opacity: 0.9,width: 100%;
+     }
+/*aca estan los estilos para la navbar*/
+ .nav1{
+opacity: 0.9;width: 100% font-family: sans-serif;
+  line-height: 1.15;
+  margin-bottom: 0px;
+    border: 0px;
+    text-align: center;
+    border-radius: 2px;
+}
+.nav-text{
+	color: #1976D2 !important;
+	font-size: 32px;
+}
+.gris-1{
+	background-color: #b2ebf2;
+	opacity: 0.9;
+}
+/*esto es para los formularios*/
+.form-1{
+	opacity: 0.9;
+	text-align: center;
+	color: #1976D2 !important;
+	width: 80%;
+	 text-align: center;
+}
